@@ -58,7 +58,8 @@ The two languages are also written differently. A structure in Java is enclosed 
 Java is also performance wise slower, and for developing high-end applications in AI, Python is more preferred by developers.
 Java Artificial Intelligence Library is Java’s answer to Python but is still less accessible to developers for apparent reasons. The Java Norvig Russell modern approach to AI has paved the way for many to sit back and notice why it could be the best language for a neural network.
 
-Case Study
+Case Study:
+
 An experiment to bring AI to use with an Internet of Things was done to make an IoT Application for employee behavioural analytics. The software provides useful feedback to employees through employee emotions and behaviour analysis, thus enhancing positive changes in management and work habits.
 
 Using python machine learning libraries, opencv and haarcascading concepts for application training, a sample POC was built to detect basic emotions like happiness, anger, sadness, disgust, suspicion, contempt, sarcasm and surprise through wireless cameras attached at various bay points.
@@ -67,7 +68,8 @@ The data collected was fed to a centralised cloud computing database where daily
 
 Developers are making gradual progress in analysing further complex points on facial emotions and mine more details with the help of deep learning algorithms and machine learning which can help analyse individual employee performance and support in proper employee/team feedback.
 
-Conclusion
+Conclusion:
+
 Python plays a vital role in AI coding language by providing it with good frameworks like scikit-learn: machine learning in Python, which fulfils almost every need in this field and D3.js – Data-Driven Documents in JS, which is one of the most powerful and easy-to-use tools for visualisation.
 
 Other than frameworks, its fast prototyping makes it an important language not to be ignored. AI needs a lot of research, and hence it is necessary not to require a 500 KB boilerplate code in Java to test a new hypothesis, which will never finish the project. In Python, almost every idea can be quickly validated through 20-30 lines of code (same for JS with libs). Therefore, it is a pretty useful language for the sake of AI.
